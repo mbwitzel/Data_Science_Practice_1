@@ -1,2 +1,2 @@
 # Data_Science_Practice_1
-Initial repository or Data Science class
+Initial repository for Data Science class
